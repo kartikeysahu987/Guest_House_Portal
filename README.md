@@ -3,7 +3,7 @@
 Welcome to the Guest House Management Portal! This web application allows you to conveniently book rooms and meals for your stay at the IIT ROPAR Guest House.
 
 ## Features
-* **Room Booking:** Easily book rooms by filling in the reservation form
+* **Room Booking:** Easily book rooms by filling in the reservation form  
 * **Meal Booking:** Select meal options for your stay
 * **User Authentication:** Secure login system to manage your bookings and preferences
 * **Admin Dashboard:** Administrators can manage rooms, meals, and bookings efficiently
