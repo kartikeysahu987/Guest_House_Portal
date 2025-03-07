@@ -1,3 +1,2 @@
-const BASE_URL = process.env.NODE_ENV === 'production' 
-  ? "https://kartibackendtemp-production.up.railway.app/" 
-  : "http://localhost:4751/";
+const BASE_URL = "https://kartibackendtemp-production.up.railway.app";
+
