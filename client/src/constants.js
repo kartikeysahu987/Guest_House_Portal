@@ -1,2 +1,3 @@
-// export const BASE_URL = "http://172.30.8.212:4751";
-export const BASE_URL = "https://kartibackendtemp-production.up.railway.app/";
+const BASE_URL = process.env.NODE_ENV === 'production' 
+  ? "https://kartibackendtemp-production.up.railway.app/" 
+  : "http://localhost:4000/";
